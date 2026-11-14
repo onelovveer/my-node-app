@@ -9,5 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "koa": "^3.3.0",
+    "koa-bodyparser": "^4.4.1"
+  }
 }
