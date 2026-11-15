@@ -9,3 +9,12 @@ bench-data/
 data/
 data-promises/
 data-hybrid/
+student_*.txt
+project_*/
+report_*.json
+data_*.txt
+processed_*.txt
+source_*/
+backup_*/
+sync_report_*.txt
+express-operations.log
